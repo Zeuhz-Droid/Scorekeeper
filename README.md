@@ -1,6 +1,6 @@
 ## Score Keeper Interface
 
-![Scorekeeper](scorekeeper.png)
+![Scorekeeper](githubscorekeeper.png)
 
 This is a score keeper one page website, it helps keep track of scores within a 2-man player game.
 
